@@ -39,8 +39,7 @@ Employee Sales Data
 ---
 
 ## Screenshot
-
-(worksheet-preview.png)
+![Alt Text](worksheet-preview.png)
 
 ---
 
