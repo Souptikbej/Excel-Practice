@@ -11,13 +11,13 @@ Every folder contains:\
 Learning Roadmap
 
 ✅ Excel Fundamentals\
-⬜ Sorting & Filtering\
-⬜ Conditional Formatting\
+✅ Sorting & Filtering\
+✅ Conditional Formatting\
 ⬜ Tables\
 ⬜ Data Validation\
 ⬜ Text Functions\
 ⬜ Date Functions\
-⬜ Lookup Functions\
+✅ Lookup Functions\
 ⬜ Pivot Tables\
 ⬜ Charts\
 ⬜ Dashboards\
