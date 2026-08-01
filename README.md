@@ -22,4 +22,4 @@ Learning Roadmap
 ⬜ Charts\
 ⬜ Dashboards\
 ⬜ Power Query\
-⬜ Power Pivot\
+⬜ Power Pivot
