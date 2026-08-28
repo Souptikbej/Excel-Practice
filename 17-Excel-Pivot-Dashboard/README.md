@@ -41,7 +41,7 @@ Order ID, Date, Region, Salesperson, Category, Product, Month, Sales, Cost, Quan
 
 ## Dashboard Preview
 
-![dashboard](/dashboard.png)
+![dashboard](dashboard.png)
 
 
 ## Learning Outcomes
