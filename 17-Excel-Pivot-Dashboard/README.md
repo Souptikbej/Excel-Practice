@@ -40,9 +40,7 @@ Order ID, Date, Region, Salesperson, Category, Product, Month, Sales, Cost, Quan
 - Q3 records the highest sales.
 
 ## Dashboard Preview
-Add a screenshot named `dashboard.png` in this repository and reference it here.
-
-```text
+```
 /dashboard.png
 ```
 
