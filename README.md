@@ -13,13 +13,13 @@ Learning Roadmap
 ✅ Excel Fundamentals\
 ✅ Sorting & Filtering\
 ✅ Conditional Formatting\
-⬜ Tables\
-⬜ Data Validation\
-⬜ Text Functions\
-⬜ Date Functions\
+✅ Tables\
+✅ Data Validation\
+✅ Text Functions\
+✅ Date Functions\
 ✅ Lookup Functions\
-⬜ Pivot Tables\
-⬜ Charts\
-⬜ Dashboards\
-⬜ Power Query\
+✅ Pivot Tables\
+✅ Charts\
+✅ Dashboards\
+✅ Power Query\
 ⬜ Power Pivot
