@@ -24,10 +24,10 @@ Each stage contains:
 | Stage | Topic | Status |
 |--------|--------|--------|
 | ✅ Stage 1 | Aggregation Functions | Completed |
-| ⏳ Stage 2 | Text Functions | Coming Soon |
-| ⏳ Stage 3 | Filter Functions | Coming Soon |
-| ⏳ Stage 4 | Logical Functions | Coming Soon |
-| ⏳ Stage 5 | Date & Time Functions | Coming Soon |
+| ✅ Stage 2 | Text Functions | Completed |
+| ✅ Stage 3 | Filter Functions | Completed |
+| ✅ Stage 4 | Logical Functions | Completed |
+| ✅ Stage 5 | Date & Time Functions | Completed |
 | ⏳ Stage 6 | Math & Statistical Functions | Coming Soon |
 | ⏳ Stage 7 | Relationship Functions | Coming Soon |
 | ⏳ Stage 8 | Iterator (X Functions) | Coming Soon |
