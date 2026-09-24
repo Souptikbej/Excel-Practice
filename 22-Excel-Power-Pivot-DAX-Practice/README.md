@@ -28,7 +28,7 @@ Each stage contains:
 | ✅ Stage 3 | Filter Functions | Completed |
 | ✅ Stage 4 | Logical Functions | Completed |
 | ✅ Stage 5 | Date & Time Functions | Completed |
-| ⏳ Stage 6 | Math & Statistical Functions | Coming Soon |
+| ✅ Stage 6 | Math & Statistical Functions | Completed |
 | ⏳ Stage 7 | Relationship Functions | Coming Soon |
 | ⏳ Stage 8 | Iterator (X Functions) | Coming Soon |
 | ⏳ Stage 9 | Ranking Functions | Coming Soon |
